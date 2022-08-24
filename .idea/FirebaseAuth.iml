@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/.yarn/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/.yarn/unplugged" />
+      <excludeFolder url="file://$MODULE_DIR$/.yarn/unplugged/expo-application-virtual-6827c88a5d/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/.yarn/unplugged/expo-constants-virtual-7c9c6128e4/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/.yarn/unplugged/expo-constants-virtual-883fa6a955/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/.yarn/unplugged/expo-error-recovery-virtual-fb8f5a67ae/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/.yarn/unplugged/expo-file-system-virtual-615ebf0093/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/.yarn/unplugged/expo-file-system-virtual-1150e8a8b6/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/.yarn/unplugged/expo-font-virtual-aed92746d8/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/.yarn/unplugged/expo-modules-core-npm-0.11.4-fbb0d2d16e/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/.yarn/unplugged/expo-npm-46.0.9-89a2068b77/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/.yarn/unplugged/hermes-engine-npm-0.11.0-55fe2812ba/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/.yarn/unplugged/jetifier-npm-1.6.8-940248aabe/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/.yarn/unplugged/jsc-android-npm-250230.2.1-c4de70c8b0/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/.yarn/unplugged/node-gyp-npm-9.1.0-2091059b31/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/.yarn/unplugged/open-npm-6.4.0-d2020c939f/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/.yarn/unplugged/open-npm-8.4.0-df63cfe537/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/.yarn/unplugged/react-native-gradle-plugin-npm-0.0.7-fd03d3c871/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/.yarn/unplugged/react-native-virtual-5efc5b4b6e/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/.expo" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
